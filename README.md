@@ -1,4 +1,4 @@
-![Natural Language Processing](https://learn-ai-tech.com/wp-content/uploads/2018/07/Mosaic_depicting_theatrical_masks_of_Tragedy_and_Comedy_Thermae_Decianae-768x623.jpg)
+![Natural Language Processing](https://miro.medium.com/max/1200/1*LSuNzztxNawWKe4LmGrUjA.jpeg)
 # Sentiment Analysis on Movie Reviews [Natural Language Processing (NLP)]
 Sentiment Analysis means analyzing the sentiment of a given text or document and categorizing the text/document into a specific class or category (like positive and negative). In other words, we can say that sentiment analysis classifies any particular text or document as positive or negative. Basically, the classification is done for two classes: positive and negative.
 
